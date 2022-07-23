@@ -18,5 +18,6 @@
 </ul>
 
 <h2>Instalação e Execução</h2>
-
+Clone o Repositório
+<code>git clone </code>
 <code>npm install npm run dev</code>
