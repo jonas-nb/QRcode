@@ -1,8 +1,5 @@
-
-
-
 <h1 align="center">QRcode</h1>
-<hr />
+
 <p>
   A aplicação é uma resolução de um desafio do site frontend mentor. O
   aplicativo apresenta um qr code que redireciona para meu portfólio, construído
@@ -18,15 +15,14 @@
   <li>Vite</li>
   <li>Styled-Components</li>
 </ul>
-
+</br>
 <h1>▶ Instalação e Execução</h1>
 <h2>📁 Acesso ao projeto</h2> 
 <code>git clone https://github.com/jonas-nb/QRcode</code>
 <h2>🛠️ Abrir e rodar o projeto</h2> 
-
 <code>npm install</code>
 </br>
 <code>npm run dev</code>
-
+</br>
 <h1>✍🏾 Autor</h1>
 <h2>Jonas Batista</h2>
